@@ -13,3 +13,5 @@ will give us the keys and signals to move the assets and start winning.
 
 3: All the available tools will be used to simulate the results and understand the variables
 that make up the aspect of the game itself.
+
+4: https://fbref.com/ i extract the data from here
